@@ -350,3 +350,40 @@ font-size:28px;
 }
 
   }
+.course-detail{
+
+padding:70px 8%;
+
+border-bottom:1px solid #eee;
+
+}
+
+.course-detail h2{
+
+color:#1565c0;
+
+margin-bottom:20px;
+
+}
+
+.course-detail ul{
+
+margin-top:20px;
+
+padding-left:20px;
+
+}
+
+.course-detail li{
+
+margin-bottom:10px;
+
+}
+
+.certification{
+
+background:#f7fdf8;
+
+text-align:center;
+
+}
