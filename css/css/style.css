@@ -648,3 +648,65 @@ padding:20px;
 line-height:1.8;
 
 }
+.testimonial-section{
+
+padding:80px 8%;
+
+text-align:center;
+
+}
+
+.coming-soon-card{
+
+max-width:900px;
+
+margin:auto;
+
+background:white;
+
+padding:50px;
+
+border-radius:20px;
+
+box-shadow:0 10px 25px rgba(0,0,0,0.08);
+
+}
+
+.testimonial-form-section{
+
+padding:80px 8%;
+
+background:#f8f9fa;
+
+}
+
+.testimonial-form-section form{
+
+max-width:800px;
+
+margin:auto;
+
+background:white;
+
+padding:40px;
+
+border-radius:20px;
+
+box-shadow:0 10px 25px rgba(0,0,0,0.08);
+
+}
+
+.testimonial-form-section input,
+.testimonial-form-section textarea{
+
+width:100%;
+
+padding:14px;
+
+margin-bottom:15px;
+
+border:1px solid #ddd;
+
+border-radius:10px;
+
+}
