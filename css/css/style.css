@@ -537,3 +537,55 @@ color:#1565c0;
 margin-bottom:15px;
 
 }
+.research-section,
+.publication-section,
+.conference-section,
+.future-section{
+
+padding:80px 8%;
+
+}
+
+.research-grid{
+
+display:grid;
+
+grid-template-columns:
+repeat(auto-fit,minmax(280px,1fr));
+
+gap:25px;
+
+margin-top:40px;
+
+}
+
+.research-card,
+.publication-card{
+
+background:white;
+
+padding:25px;
+
+border-radius:20px;
+
+box-shadow:0 10px 25px rgba(0,0,0,0.08);
+
+transition:0.3s;
+
+}
+
+.research-card:hover,
+.publication-card:hover{
+
+transform:translateY(-8px);
+
+}
+
+.research-card h3,
+.publication-card h3{
+
+color:#1565c0;
+
+margin-bottom:15px;
+
+}
