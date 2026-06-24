@@ -502,3 +502,38 @@ box-shadow:0 5px 15px rgba(0,0,0,0.1);
 text-align:center;
 
 }
+.services-page{
+
+padding:80px 8%;
+
+}
+
+.services-page .service-card{
+
+background:white;
+
+padding:30px;
+
+border-radius:20px;
+
+margin-bottom:30px;
+
+box-shadow:0 10px 25px rgba(0,0,0,0.08);
+
+transition:0.3s;
+
+}
+
+.services-page .service-card:hover{
+
+transform:translateY(-8px);
+
+}
+
+.services-page h2{
+
+color:#1565c0;
+
+margin-bottom:15px;
+
+}
